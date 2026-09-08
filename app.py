@@ -1,6 +1,6 @@
 # Storing numbers
 number1 = 10
-number2 = 20
+number2 = 40
 
 # Adding them together
 total = number1 + number2
